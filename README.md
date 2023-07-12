@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 I'm Alex</h1>
 <h3 align="center">A creative frontend developer with roots in art</h3>
 
-<img align='right' alt='logo' width='400' src=''>
+<img align='right' alt='logo' width='260' src='https://media.licdn.com/dms/image/C5622AQHxvNFViYDBRA/feedshare-shrink_1280/0/1668000215172?e=1692230400&v=beta&t=-tfYbv5r6iVUPOikpEytqpdi0Olwc3hZtI1B_6WZjIk'>
 
 ## About Me
 
 :palm_tree: based in Oahu, HI  
-:seedling: currently working on my portfolio's projects and DSA  
+:seedling: currently working on my projects and DSA  
 :computer: volunteer at Code for Hawaii  
 :handbag: former military officer  
 :art: illustrator [Art Portfolio](https://www.artstation.com/alexandram)  
