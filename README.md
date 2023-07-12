@@ -33,7 +33,7 @@ Looking forward to connecting with you!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexandra-haynes-alexslullaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandra-haynes-alexslullaby" height="30" width="40" /></a>
-<a href="https://instagram.com/alexadram.ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexadram.ig" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/alexandram.ig/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexadram.ig" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alexandrahaynes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alexandrahaynes" height="30" width="40" /></a>
 </p>
 
