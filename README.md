@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋 I'm Alex</h1>
-<h3 align="center">A creative frontend developer with roots in art</h3>
+<h3 align="center">A creative frontend developer</h3>
 
 
 ## About Me
 
 :palm_tree: based in Oahu, HI  
-:seedling: currently working on my projects and DSA  
 :computer: volunteer at Code for Hawaii  
 :handbag: former military officer  
 :art: illustrator [Art Portfolio](https://www.artstation.com/alexandram)  
@@ -20,14 +19,6 @@ In this repository, you'll find a variety of projects that I have worked on.
 Feel free to explore the projects and delve into the code. Don't hesitate to reach out if you have any questions or 
 if there's anything you'd like to collaborate on!
 
-## Contact Me
-
-If you would like to get in touch or discuss potential collaborations, you can reach me on [LinkedIn](https://www.linkedin.com/in/alexandra-haynes-alexslullaby)  
-
-
-I'm open to connecting with like-minded individuals, discussing coding challenges, and exploring opportunities.
-
-Looking forward to connecting with you!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -65,7 +56,7 @@ Looking forward to connecting with you!
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandra-haynes&show_icons=true&locale=en&layout=compact" alt="alexandra-haynes" /></p>
 
-<img align='center' alt='coding meme' width='260' src='https://media.licdn.com/dms/image/C5622AQHxvNFViYDBRA/feedshare-shrink_1280/0/1668000215172?e=1692230400&v=beta&t=-tfYbv5r6iVUPOikpEytqpdi0Olwc3hZtI1B_6WZjIk'>
+<img align='center' alt='coding meme' width='260' src='https://media.licdn.com/dms/image/C5622AQHxvNFViYDBRA/feedshare-shrink_1280/0/1668000215172?e=1692230400&v=beta&t=-tfYbv5r6iVUPOikpEytqpdi0Olwc3hZtI1B_6WZjIk'/>
 
 
 
