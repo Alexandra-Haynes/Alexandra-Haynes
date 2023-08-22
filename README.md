@@ -2,7 +2,6 @@
 <h3 align="center">A creative frontend developer</h3>
 
 
-## About Me
 
 :palm_tree: based in Oahu, HI  
 :computer: volunteer at Code for Hawaii  
@@ -12,9 +11,6 @@
 
 
 
-## Projects
-
-In this repository, you'll find a variety of projects that I have worked on. 
 
 Feel free to explore the projects and delve into the code. Don't hesitate to reach out if you have any questions or 
 if there's anything you'd like to collaborate on!
@@ -56,7 +52,7 @@ if there's anything you'd like to collaborate on!
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandra-haynes&show_icons=true&locale=en&layout=compact" alt="alexandra-haynes" /></p>
 
-<img align='center' alt='coding meme' width='260' src='https://media.licdn.com/dms/image/C5622AQHxvNFViYDBRA/feedshare-shrink_1280/0/1668000215172?e=1692230400&v=beta&t=-tfYbv5r6iVUPOikpEytqpdi0Olwc3hZtI1B_6WZjIk'/>
+
 
 
 
