@@ -2,7 +2,7 @@
 <h3 align="center">A creative frontend developer</h3>
 
 
-
+⭐: portfolio: https://www.alexandracoding.com/
 :palm_tree: based in Oahu, HI  
 :computer: volunteer at Code for Hawaii  
 :handbag: former military officer  
